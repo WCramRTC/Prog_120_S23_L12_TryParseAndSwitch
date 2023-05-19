@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33326.253
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog_120_S23_L12_TryParseAndSwitch", "Prog_120_S23_L12_TryParseAndSwitch.csproj", "{24181D96-A693-48AA-8DF5-667B5DD2FBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24181D96-A693-48AA-8DF5-667B5DD2FBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24181D96-A693-48AA-8DF5-667B5DD2FBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24181D96-A693-48AA-8DF5-667B5DD2FBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24181D96-A693-48AA-8DF5-667B5DD2FBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FECF095E-E804-47DD-8741-096C02D28C18}
+	EndGlobalSection
+EndGlobal
